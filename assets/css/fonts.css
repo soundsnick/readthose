@@ -1,0 +1,109 @@
+@font-face{
+	src: url(../fonts/ProximaNova-Light.otf);
+	font-family: ProximaNova;
+	font-weight: 100;
+}
+@font-face{
+	src: url(../fonts/ProximaNova-Reg.otf);
+	font-family: ProximaNova;
+	font-weight: 300;
+}
+@font-face{
+	src: url(../fonts/ProximaNova-Bold.otf);
+	font-family: ProximaNova;
+	font-weight: 400;
+}
+@font-face{
+	src: url(../fonts/ProximaNova-Black.otf);
+	font-family: ProximaNova;
+	font-weight: 500;
+}
+@font-face{
+	src: url(../fonts/ProximaNova-Xbold.otf);
+	font-family: ProximaNova;
+	font-weight: 600;
+}
+@font-face{
+	src: url(../fonts/OpenSans-Regular.ttf);
+	font-family: Open-Sans;
+	font-weight: 300;
+}
+@font-face{
+	src: url(../fonts/OpenSans-Light.ttf);
+	font-family: Open-Sans;
+	font-weight: 100;
+}
+@font-face{
+	src: url(../fonts/OpenSans-Semibold.ttf);
+	font-family: Open-Sans;
+	font-weight: 400;
+}
+@font-face{
+	src: url(../fonts/OpenSans-Bold.ttf);
+	font-family: Open-Sans;
+	font-weight: 500;
+}
+@font-face{
+	src: url(../fonts/OpenSans-ExtraBold.ttf);
+	font-family: Open-Sans;
+	font-weight: 600;
+}
+@font-face{
+	src: url(../fonts/merkur.ttf);
+	font-family: Merkur;
+	font-weight: 100;
+}
+/*Roboto*/
+@font-face{
+	src: url(../fonts/Roboto-Thin.ttf);
+	font-family: Roboto;
+	font-weight: 100;
+}
+@font-face{
+	src: url(../fonts/Roboto-ThinItalic.ttf);
+	font-family: Roboto;
+	font-weight: 100;
+	font-style: italic;
+}
+@font-face{
+	src: url(../fonts/Roboto-Medium.ttf);
+	font-family: Roboto;
+	font-weight: 400;
+}
+@font-face{
+	src: url(../fonts/Roboto-MediumItalic.ttf);
+	font-family: Roboto;
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face{
+	src: url(../fonts/Roboto-Regular.ttf);
+	font-family: Roboto;
+	font-weight: normal;
+}
+@font-face{
+	src: url(../fonts/Roboto-Italic.ttf);
+	font-family: Roboto;
+	font-weight: normal;
+	font-style: italic;
+}
+@font-face{
+	src: url(../fonts/Roboto-Light.ttf);
+	font-family: Roboto;
+	font-weight: 200;
+}
+@font-face{
+	src: url(../fonts/Roboto-Bold.ttf);
+	font-family: Roboto;
+	font-weight: 500;
+}
+@font-face{
+	src: url(../fonts/Roboto-Black.ttf);
+	font-family: Roboto;
+	font-weight: 800;
+}
+@font-face{
+	src: url(../fonts/leixo.ttf);
+	font-family: Leixo;
+}
+/* end */
